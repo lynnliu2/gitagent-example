@@ -1,0 +1,7 @@
+C:\tmp\gitagent-example\DotNet1\bin\Script.dll
+C:\tmp\gitagent-example\DotNet1\bin\Script.pdb
+C:\tmp\gitagent-example\DotNet1\bin\DotNetReplayUtils.dll
+C:\tmp\gitagent-example\DotNet1\bin\LoadRunner.dll
+C:\tmp\gitagent-example\DotNet1\obj\Debug\Script.csprojResolveAssemblyReference.cache
+C:\tmp\gitagent-example\DotNet1\obj\Debug\Script.dll
+C:\tmp\gitagent-example\DotNet1\obj\Debug\Script.pdb
